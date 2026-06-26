@@ -1,4 +1,4 @@
-allowBuilds:
-  - esbuild
 packages:
   - "."
+allowBuilds:
+  esbuild: set this to true or false
